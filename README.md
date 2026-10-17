@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="ahmadalip — building terminal-first AI tools" width="100%" />
+  <img src="./assets/profile-header.svg" alt="ahmadalip · AI Engineer and Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -8,35 +8,48 @@
   <a href="https://github.com/ahmadalip?tab=repositories"><img src="https://img.shields.io/badge/explore-all%20repositories-334155?style=flat-square" alt="Explore all repositories" /></a>
 </p>
 
-## Hello, I’m ahmadalip
+## Hello, I'm ahmadalip
 
-I build **terminal-first AI tools for developers** — practical systems that make coding workflows safer, clearer, and more productive.
+I work as an **AI engineer and full-stack developer**. Two things keep me busy: building **AI agents and developer tooling** that are safe and transparent to use, and shipping **production web applications** end to end.
 
-My work sits at the intersection of **AI agents, command-line interfaces, and developer experience**. I care about useful automation, visible actions, and keeping people in control of what their tools can do.
+On the AI side I build terminal-first coding assistants, agent workflows, and LLM integrations. On the product side I build full-stack applications with TypeScript, React and Next.js on the front, Node.js and PostgreSQL behind them.
 
-> Build useful tools. Keep humans in control.
+> Make the tool useful. Make the action visible. Keep the human in control.
 
-## What I’m building
+## Public projects
 
-| Project | Purpose | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| [iooi CLI](https://github.com/ahmadalip/iooi-Cli) | A safety-first AI coding assistant with provider support, permission modes, sessions, file tools, and Git workflows. | TypeScript · Node.js |
+| [iooi CLI](https://github.com/ahmadalip/iooi-Cli) | A safety-first AI coding assistant for the terminal with provider support, permission modes, sessions, file tools, and Git workflows. | TypeScript · Node.js |
 | [AI Coding Agent](https://github.com/ahmadalip/ai-coding-agent) | A terminal-based AI pair programmer with interactive chat, agentic tool use, context awareness, and safe project editing. | Python · LLM APIs |
-| [OpenCode fork](https://github.com/ahmadalip/opencode) | An open-source codebase I am exploring to learn more about terminal-first AI coding systems. | Go |
+| [OpenCode fork](https://github.com/ahmadalip/opencode) | An open-source codebase I study to go deeper on terminal-first AI coding systems. | Go |
 
-## Current direction
+Alongside these I build client and internal products (dashboards, admin panels, marketing sites, and a Flutter mobile app). Those repositories are private, but the same engineering standards apply: typed code, reviewable changes, and no silent side effects.
 
-- Designing **safe and transparent AI agent workflows** for real development projects.
-- Improving terminal interfaces so users can understand what an assistant is doing.
-- Learning by shipping focused projects in **Python, TypeScript, Go, and Node.js**.
+## What I work on
 
-## Toolbox
+- **AI agent systems**: tool use, permission and approval flows, session and context management, provider switching.
+- **Developer tooling**: CLI design, terminal UX, Git-aware workflows, automation that stays explainable.
+- **Full-stack delivery**: Next.js and React interfaces, typed API layers, PostgreSQL schemas and migrations, auth and admin panels.
 
-`Python` `TypeScript` `JavaScript` `Go` `Node.js` `Git` `CLI tooling` `LLM integrations`
+## Stack
 
-## A little more
+`TypeScript` `JavaScript` `Python` `Node.js` `React` `Next.js` `PostgreSQL` `Dart · Flutter` `Go` `Git` `CLI tooling` `LLM integrations`
 
-I’m interested in open-source work around AI developer tools, terminal interfaces, automation, and thoughtful developer experience. If you are building in this space, explore the repositories above or open an issue on a project.
+## Principles
+
+- Actions a tool takes should be visible and reversible.
+- Types, migrations, and tests over "it works on my machine".
+- Small, focused repositories that do one job properly.
+- Learn an ecosystem by shipping something real in it.
+
+## Get in touch
+
+The best way to reach me is through GitHub:
+
+- [All repositories](https://github.com/ahmadalip?tab=repositories)
+- [Open an issue on iooi CLI](https://github.com/ahmadalip/iooi-Cli/issues)
+- [Open an issue on AI Coding Agent](https://github.com/ahmadalip/ai-coding-agent/issues)
 
 <p align="center">
   <a href="https://github.com/ahmadalip?tab=repositories">Explore the work</a>
