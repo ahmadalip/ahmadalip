@@ -1,0 +1,33 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ahmadalip · AI Engineer and Full-Stack Developer</title>
+  <desc id="desc">A dark terminal-inspired banner with cyan and violet accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#111A33"/>
+      <stop offset="1" stop-color="#1A1030"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="1020" cy="60" r="105" fill="#7C3AED" opacity="0.16" filter="url(#glow)"/>
+  <circle cx="1110" cy="230" r="130" fill="#06B6D4" opacity="0.11" filter="url(#glow)"/>
+  <rect x="56" y="48" width="1088" height="224" rx="18" stroke="#334155" stroke-width="2"/>
+  <circle cx="86" cy="78" r="7" fill="#FB7185"/>
+  <circle cx="110" cy="78" r="7" fill="#FBBF24"/>
+  <circle cx="134" cy="78" r="7" fill="#34D399"/>
+  <text x="164" y="84" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">~/workspace</text>
+  <text x="92" y="152" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="46" font-weight="700">ahmadalip</text>
+  <text x="92" y="198" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="24">&gt; ai engineer · full-stack developer</text>
+  <rect x="92" y="228" width="470" height="4" rx="2" fill="url(#line)"/>
+  <text x="92" y="257" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">agent tooling · typescript · python · production web apps</text>
+  <path d="M878 128L918 168L878 208" stroke="#67E8F9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <path d="M942 208H1048" stroke="#A78BFA" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
+</svg>
